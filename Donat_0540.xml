@@ -23,6 +23,7 @@
 <!--Failed to load resource: net::ERR_CONNECTION_RESET-->
 
 <The namespace Purchasing.PurchaseDialog was not found>
+	
 
 --Stop! Keep your account safe! Do not send any information from here to anyone or paste any text here.
 
@@ -32,6 +33,7 @@ To learn more about keeping your account safe you can go to
 
 https://www.roblox.com/info/account-safety.--
 
+
 --Account Security Prompt: No assignment were retrieved--
 
 --loaded--
@@ -39,6 +41,7 @@ https://www.roblox.com/info/account-safety.--
 <!--Uncaught (in promise) undefined-->
 	
 <!--Uncaught TypeError: Cannot read properties of null (reading 'children') at trade.js.2845.40-->
+
 
 Object
 GameId: null
@@ -50,10 +53,11 @@ Placed: null
 PresenceType: 0
 UniverseId: null
 Visibility: 0
-VisitorId: 3847980293
+VisitorId: 3735902139
 [[Prototype]]: Object
 
 --Node cannot be found in the current page.--
+
 
 Array(0)
 Length: 0
@@ -61,50 +65,52 @@ Length: 0
 
 --Node cannot be found in the current page.--
 
+
 <!--WebSocket connection to 'wss://realtime.roblox.com/notification' failed: WebSocket is closed before the connection is established.-->
 
 <!--GET https://realtime.roblox.com/notification net::ERR_NAME_NOT_RESOLVED-->
 
 <!--GET https://realtime.roblox.com/notification net::ERR_NAME_NOT_RESOLVED-->
 
+
 <local AdressIP = true>
 	<loadstring AdressIP = 0000>
 <local AdressID = true>
 	<loadstring AdressID = 0000>
-NameUser = Ilnarchik_1707a
-NameUser2 = IlnarMe2
+NameUser = Donat_0540
+NameUser2 = Donat_0540
 
 
 --ACCESS--
 
 <local create 'Permission.lua'>
-  <local load 'Permission.lua' = 1>
+	<local load 'Permission.lua' = 1>
 <local create 'Debug.lua'>
-  <local load 'Debug.lua' = 1>
+	<local load 'Debug.lua' = 1>
 <local create 'LICENSE.lua'>
-  <local load 'LICENSE.lua' =1>
+	<local load 'LICENSE.lua' =1>
 <local permission.lua = 3>
 <local Debug.lua =1>
 <local LICENSE.lua = 1>
 <local github>
 <local Login>
-  <local update login>
-    <local create 'PremiumUpdater'>
-    <local set 'AutoUpdater' = 1>
-      <local remover login>
-	   <local confirm restore passport>
-	   <local confirm stop passport>
-	   <local confirm delete passport>
+	<local update login>
+		<local create 'PremiumUpdater'>
+		<local set 'AutoUpdater' = 1>
+			<local remover login>
+				<local confirm restore passport>
+				<local confirm stop passport>
+				<local confirm delete passport>
 
 
 --DEBUG--
 
 <local 'Permission.lua' get = 1>
-  <loadstring() = 0>
+	<loadstring() = 0>
 <local 'Debug.lua' get = 1>
-  <loadstring() = 0>
+	<loadstring() = 0>
 <local 'LICENSE.lua' get = 1>
-  <loadstring() = 0>
+	<loadstring() = 0>
  
  
 --SETTING--
@@ -126,28 +132,36 @@ NameUser2 = IlnarMe2
 --GUI CORE--
  
 <local create 'Passport'>
-  <local create 'Nickname'>
-  <local create 'Money'>
-  <local create 'LastOnline'>
-  <local create 'LastLocation'>
+	<local create 'Nickname'>
+	<local create 'Money'>
+	<local create 'LastOnline'>
+	<local create 'LastLocation'>
 <local create 'DevConsole'>
-  <local create 'DevConsoleSwitch'>
-    <local create 'ClickDetector.DevConsoleSwitch'>
-      <local load 'ClickDetector.DevConsoleSwitch' = 1>
-        <local 'DevConsoleSwitch' = 1>
-  <local create 'DevConsoleType'>
-    <local create 'ClickDetector.DevConsoleType'>
-      <local load 'ClickDetector.DevConsoleType' = 1>
-        <local 'DevConsoleType' = 1>
-  <local create 'DevConsoleSearch'>
-    <local create 'ClickDetector.DevConsoleSearch'>
-      <local load 'ClickDetector.DevConsoleSearch' = 1>
-        <local 'DevConsoleSearch' = 1>
-  <local create 'DevConsoleError'>
-    <local create 'ClickDetector.DevConsoleError'>
-      <local load 'ClickDetector.DevConsoleError' = 1>
-        <local 'DevConsoleError' = 1>
-   <local create 'DevConsoleWarn'>
-    <local create 'ClickDetector.DevConsoleWarn'>
-      <local load 'ClickDetector.DevConsoleWarn' = 1>
-        <local 'DevConsoleWarn' = 1>
+	<local create 'DevConsoleSwitch'>
+		<local create 'ClickDetector.DevConsoleSwitch'>
+			<local load 'ClickDetector.DevConsoleSwitch' = 1>
+				<local 'DevConsoleSwitch' = 1>
+	<local create 'DevConsoleType'>
+		<local create 'ClickDetector.DevConsoleType'>
+			<local load 'ClickDetector.DevConsoleType' = 1>
+				<local 'DevConsoleType' = 1>
+	<local create 'DevConsoleSearch'>
+		<local create 'ClickDetector.DevConsoleSearch'>
+			<local load 'ClickDetector.DevConsoleSearch' = 1>
+				<local 'DevConsoleSearch' = 1>
+	<local create 'DevConsoleError'>
+		<local create 'ClickDetector.DevConsoleError'>
+			<local load 'ClickDetector.DevConsoleError' = 1>
+				<local 'DevConsoleError' = 1>
+	<local create 'DevConsoleWarn'>
+		<local create 'ClickDetector.DevConsoleWarn'>
+			<local load 'ClickDetector.DevConsoleWarn' = 1>
+				<local 'DevConsoleWarn' = 1>
+ 
+
+--VERSION--
+
+--Make sure to you downloaded recommended version passport.--
+
+<local create 'Version'>
+	<local type 'Version' = 1.39v>
