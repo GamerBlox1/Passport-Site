@@ -68,9 +68,9 @@ NameUser2 = Aidarov_1091
 <local create 'Debug.lua'>
 	<local load 'Debug.lua' = 1>
 <local create 'LICENSE.lua'>
-	<local load 'LICENSE.lua' =1>
+	<local load 'LICENSE.lua' = 1>
 <local permission.lua = 6>
-<local Debug.lua =1>
+<local Debug.lua = 1>
 <local LICENSE.lua = 1>
 <local github>
 <local Login>
