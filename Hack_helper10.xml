@@ -1,47 +1,28 @@
+--INFORMATION--
 <The namespace CommonUI.Features was not found>
-
 <The namespace Frature.ProfileBadge was not found>
-
 <The translation key 'Creator.VerifiedBadgeIconAccessiblityText' not found. Please check for a missing string or a typo.>
-
 <The translation key 'VerifiedBadgeInfoTitle' not found. Please check for a missing string or a typo.>
-
 <The translation key 'VerifiedBadgeInfo' not found. Please check for a missing string or a typo.>
-
 <The translation key 'VerifiedBadgeInfoLink' not found. Please check for a missing string or a typo.>
-
 <The translation key 'UsernameChangeWithVerifiedBadge' not found. Please check for a missing string or a typo.>
-
 <The translation key 'TwoSVWithVerifiedBadge' not found. Please check for a missing string or a typo.>
-
 <The translation key 'GroupNameChangeWithVerifiedBadge' not found. Please check for a missing string or a typo.>
-
 <The translation key 'DisplayNameChangeWithVerifiedBadge' not found. Please check for a missing string or a typo.>
-
 <The translation key 'action.close' not found. Please check for a missing string or a typo.>
-
 <!--Failed to load resource: net::ERR_CONNECTION_RESET-->
-
 <The namespace Purchasing.PurchaseDialog was not found>
 	
-
---Stop! Keep your account safe! Do not send any information from here to anyone or paste any text here.
-
-If someone is asking you to copy or paste text here them you're giving someone access to your account, your gear, and your Robux.
-
-To learn more about keeping your account safe you can go to
-
-https://www.roblox.com/info/account-safety.--
-
+--Stop! Keep your account safe! Do not send any information from here to anyone or paste any text here.--
+--If someone is asking you to copy or paste text here them your giving someone access to your account, your gear, and your Robux.--
+--To learn more about keeping your account safe you can go to https://www.roblox.com/info/account-safety.--
 
 --Account Security Prompt: No assignment were retrieved--
 
 --loaded--
 
 <!--Uncaught (in promise) undefined-->
-	
 <!--Uncaught TypeError: Cannot read properties of null (reading 'children') at trade.js.2845.40-->
-
 
 Object
 GameId: null
@@ -58,7 +39,6 @@ VisitorId: 2247238908
 
 --Node cannot be found in the current page.--
 
-
 Array(0)
 Length: 0
 [[Prototype]]: Array(0)
@@ -67,22 +47,20 @@ Length: 0
 
 
 <!--WebSocket connection to 'wss://realtime.roblox.com/notification' failed: WebSocket is closed before the connection is established.-->
-
+<!--GET https://realtime.roblox.com/notification net::ERR_NAME_NOT_RESOLVED-->
 <!--GET https://realtime.roblox.com/notification net::ERR_NAME_NOT_RESOLVED-->
 
-<!--GET https://realtime.roblox.com/notification net::ERR_NAME_NOT_RESOLVED-->
-
-
-<local AdressIP = true>
-	<loadstring AdressIP = 0000>
-<local AdressID = true>
-	<loadstring AdressID = 0001>
+--CONNECTION--
+<local create 'AddressIP'>
+<local 'AdressIP' = true>
+	<loadstring 'AdressIP' = 0000>
+<local create 'AdressID'>
+<local 'AdressID' = true>
+	<loadstring 'AdressID' = 0001>
 NameUser = hack_helper10
 NameUser2 = Gamer_blox
 
-
 --ACCESS--
-
 <local create 'Permission.lua'>
 	<local load 'Permission.lua' = 1>
 <local create 'Debug.lua'>
@@ -99,22 +77,26 @@ NameUser2 = Gamer_blox
 		<local set 'AutoUpdater' = 1>
 			<local remover login>
 				<local confirm restore passport>
+					<local ClickDetector = 1>
+						<local upload 'Player.log'>
 				<local confirm stop passport>
+					<local ClickDetector = 1>
+						<local Deactivate 'Player.xml'>
 				<local confirm delete passport>
-
+					<local ClickDetector = 1>
+					<local Proximity prompt = 1>
+						<local remove 'Player.log'>
+						<local remove 'Player.xml'>
 
 --DEBUG--
-
 <local 'Permission.lua' get = 1>
 	<loadstring() = 0>
 <local 'Debug.lua' get = 1>
 	<loadstring() = 0>
 <local 'LICENSE.lua' get = 1>
 	<loadstring() = 0>
- 
- 
+
 --SETTING--
- 
 <local create 'ChangeName'>
   <local create 'ClickDetector.ChangeName'>
     <local load 'ClickDetector.ChangeName' = 1>
@@ -128,14 +110,14 @@ NameUser2 = Gamer_blox
     <local load 'ClickDetector.ChangePassword' = 1>
       <local 'ChangePassword' = 1>
  
- 
 --GUI CORE--
- 
+—Here A System Guis, Do Not Change This!—
 <local create 'Passport'>
 	<local create 'Nickname'>
 	<local create 'Money'>
 	<local create 'LastOnline'>
 	<local create 'LastLocation'>
+	<local create 'Root Daemon'>
 <local create 'DevConsole'>
 	<local create 'DevConsoleSwitch'>
 		<local create 'ClickDetector.DevConsoleSwitch'>
@@ -158,10 +140,15 @@ NameUser2 = Gamer_blox
 			<local load 'ClickDetector.DevConsoleWarn' = 1>
 				<local 'DevConsoleWarn' = 1>
  
+--FEATURES--
+<local check 'AdressIP'>
+	<local check folder 'ROOT_FEATURES'>
+<local check folder 'ROOT'>
+	<local 'ROOT' = 1>
+		<local set 'site8560.wirdpress.com' = 7>
 
 --VERSION--
-
 --Make sure to you downloaded recommended version passport.--
-
 <local create 'Version'>
-	<local type 'Version' = 1.39v>
+	<local check folder 'Languages'>
+	<local type 'Version' = 1.4.1v>
