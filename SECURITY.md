@@ -7,18 +7,18 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.0.0   | :warning:          |
-| 2.0.0   | :white_check_mark: |
-| 1.4.1   | :white_check_mark: |
-| 1.4.0   | :white_check_mark: |
-| 1.3.5   | :white_check_mark: |
-| 1.2.9   | :x:                |
-| 1.2.3   | :x:                |
-| 1.1.9   | :x:                |
-| 1.1.5   | :x:                |
-| 1.1.1   | :x:                |
-| 1.0.1   | :x:                |
-| 1.0.0   | :x:                |
+| 0.0.0v  | :warning:          |
+| 2.0.0v  | :white_check_mark: |
+| 1.4.1v  | :white_check_mark: |
+| 1.4.0v  | :white_check_mark: |
+| 1.3.5v  | :white_check_mark: |
+| 1.2.9v  | :x:                |
+| 1.2.3v  | :x:                |
+| 1.1.9v  | :x:                |
+| 1.1.5v  | :x:                |
+| 1.1.1v  | :x:                |
+| 1.0.1v  | :x:                |
+| 1.0.0v  | :x:                |
 
 ## Reporting a Vulnerability
 
